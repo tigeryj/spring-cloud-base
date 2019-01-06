@@ -17,7 +17,6 @@
     <modules>
         <module>config-server</module>
         <module>config-client</module>
-        <module>config-server-bus</module>
         <module>rabbitmq-hello</module>
     </modules>
 
