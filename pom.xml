@@ -18,6 +18,8 @@
         <module>config-server</module>
         <module>config-client</module>
         <module>rabbitmq-hello</module>
+        <module>config-server-mysql</module>
+        <module>config-client-mysql</module>
     </modules>
 
     <dependencies>
